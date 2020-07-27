@@ -18,7 +18,7 @@ The tech stack I used included:
 
 Getting Started
 ---
-#Pre-requisites and Local Development
+## Pre-requisites and Local Development
 
 Authors
 ---
